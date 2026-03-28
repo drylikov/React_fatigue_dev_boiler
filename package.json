@@ -1,0 +1,13 @@
+
+{
+  "name": "react_fatigue_dev_boiler",
+  "version": "0.0.1",
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "dependencies": {
+    "react-fatigue-dev": "github:drylikov/react_fatigue_dev"
+  }
+}
